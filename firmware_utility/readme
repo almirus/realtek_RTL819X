@@ -1,0 +1,5 @@
+This application supports unpacking and firmware generation for Realtek CPU-based devices, such as RTL819X.
+It has been tested on Netis N5 router firmware modifications.
+
+Это приложение поддерживает распаковку и создание прошивки для устройств на чипах Realtek, например RTL819X
+Протестировано на роутере Netis N5, должно работать для D-Link DWR-M921
