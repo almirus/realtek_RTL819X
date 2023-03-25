@@ -3,3 +3,5 @@ It has been tested on Netis N5 router firmware modifications.
 
 Это приложение поддерживает распаковку и создание прошивки для устройств на чипах Realtek, например RTL819X
 Протестировано на роутере Netis N5, должно работать для D-Link DWR-M921
+
+PS если не работает нужно установить apt-get install -y lib32z1
